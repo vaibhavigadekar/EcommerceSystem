@@ -1,0 +1,16 @@
+Product
+  |
+  |-- ElectronicsProduct
+  |-- ClothingProduct
+  |-- BookProduct
+
+ShoppingCart
+  |
+  |-- addProduct()
+  |-- displayCart()
+
+Order
+  |
+  |-- placeOrder()
+
+Main
